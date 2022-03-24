@@ -1,0 +1,118 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Codegen\\Dotnet\\working\\Custom Filtering - case insensitive\\CustomFiltering\\CustomFiltering.csproj": {}
+  },
+  "projects": {
+    "F:\\Codegen\\Dotnet\\working\\Custom Filtering - case insensitive\\CustomFiltering\\CustomFiltering.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Codegen\\Dotnet\\working\\Custom Filtering - case insensitive\\CustomFiltering\\CustomFiltering.csproj",
+        "projectName": "CustomFiltering",
+        "projectPath": "F:\\Codegen\\Dotnet\\working\\Custom Filtering - case insensitive\\CustomFiltering\\CustomFiltering.csproj",
+        "packagesPath": "C:\\Users\\Sang95OB30\\.nuget\\packages\\",
+        "outputPath": "F:\\Codegen\\Dotnet\\working\\Custom Filtering - case insensitive\\CustomFiltering\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Sang95OB30\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "HotChocolate": {
+              "target": "Package",
+              "version": "[12.6.0, )"
+            },
+            "HotChocolate.AspNetCore": {
+              "target": "Package",
+              "version": "[12.6.0, )"
+            },
+            "HotChocolate.AspNetCore.Playground": {
+              "target": "Package",
+              "version": "[10.5.5, )"
+            },
+            "HotChocolate.AspNetCore.Subscriptions": {
+              "target": "Package",
+              "version": "[10.5.5, )"
+            },
+            "HotChocolate.Data": {
+              "target": "Package",
+              "version": "[12.6.0, )"
+            },
+            "HotChocolate.Stitching": {
+              "target": "Package",
+              "version": "[12.6.0, )"
+            },
+            "HotChocolate.Subscriptions": {
+              "target": "Package",
+              "version": "[12.6.0, )"
+            },
+            "HotChocolate.Subscriptions.InMemory": {
+              "target": "Package",
+              "version": "[12.6.0, )"
+            },
+            "HotChocolate.Subscriptions.Redis": {
+              "target": "Package",
+              "version": "[12.6.0, )"
+            },
+            "HotChocolate.Types.Filters": {
+              "target": "Package",
+              "version": "[12.6.0, )"
+            },
+            "HotChocolate.Types.NodaTime": {
+              "target": "Package",
+              "version": "[12.6.0, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.5.43, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.416\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

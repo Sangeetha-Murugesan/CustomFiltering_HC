@@ -1,0 +1,53 @@
+﻿{"data":[
+  {
+    "saleOrderNo": "P000609S",
+    "saleOrderStatus": "APP",
+    "partDetails": [
+        {
+          "mrstatusArr": ""
+        }
+      ]
+    
+  },
+  {
+    "saleOrderNo": "P000610S",
+    "saleOrderStatus": "APP",
+    "partDetails":  [
+        {
+          "mrstatusArr": ""
+        }
+      ]
+    
+  },
+  {
+    "saleOrderNo": "P000611S",
+    "saleOrderStatus": "FR",
+    "partDetails": [
+        {
+          "mrstatusArr": "Pend"
+        }
+      ]
+    
+  },
+  {
+    "saleOrderNo": "P000626S",
+    "saleOrderStatus": "APP",
+    "partDetails": [
+        {
+          "mrstatusArr": ""
+        }
+      ]
+    
+  },
+  {
+    "saleOrderNo": "P000335S",
+    "saleOrderStatus": "RET",
+    "partDetails": [
+        {
+          "mrstatusArr": "Pend"
+        }
+      ]
+    
+  }
+]
+}
